@@ -3,7 +3,7 @@
   "VersionNumber": "1.5.0",
   "Description": "This is a H3VR range scene made with practically zero experience and knowledge so expect some weird collision stuff happening. Some of the range set up is inspired by InrangeTV's competition videos. Thank you for understanding.",
   "ShortDescription": "Shoot Range Map For H3VR",
-  "Authors": "alvin2503",
+  "Authors": ["alvin2503"],
   "IconUrl": "https://i.imgur.com/TaFPCSn.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/5/",
   "DownloadUrl": "https://bonetome.com/download.php?file=ZGU0Nzk1NTk4ZGEyN2Y3OCsrMzU5",
