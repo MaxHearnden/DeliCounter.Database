@@ -7,7 +7,7 @@
   "IconUrl": "https://i.imgur.com/TaFPCSn.png",
   "SourceUrl": "https://bonetome.com/h3vr/map/5/",
   "DownloadUrl": "https://bonetome.com/download.php?file=ZGU0Nzk1NTk4ZGEyN2Y3OCsrMzU5",
-  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\"],
+  "InstallationSteps": ["extract $GAME_DIR\\Deli\\mods\\legacy\\CustomLevels\\Other"],
   "Dependencies": {
     "WurstMod": "^2.0.3"
   }
